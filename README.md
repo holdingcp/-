@@ -16,4 +16,11 @@
 본 팀은 해당 소비자들이 원하는 정보를 얻고 손쉽게 거래가 가능한 플랫폼을 만들고자 하였음.
 
 
-### 
+### 앱 서비스 사진  
+<img src = "https://user-images.githubusercontent.com/88263745/152628575-d950d49d-0fe0-487f-8eb7-fa0078ffb336.jpg" width="30%" height="30%"> <img src = "https://user-images.githubusercontent.com/88263745/152628579-2d2e3b2e-bc2d-42d3-b65d-ce3b10da085d.jpg" width="30%" height="30%">
+
+<img src = "https://user-images.githubusercontent.com/88263745/152628583-f1ab1d0a-5da1-4bbc-910d-f8fd4aa6ab84.jpg" width="30%" height="30%"> <img src = "https://user-images.githubusercontent.com/88263745/152628584-80f34036-cfe5-44e6-a361-b25da87cdc05.jpg" width="30%" height="30%">
+
+<img src = "https://user-images.githubusercontent.com/88263745/152628586-474c5882-8fea-4393-bddc-4587a466cb9e.jpg" width="30%" height="30%"> <img src = "https://user-images.githubusercontent.com/88263745/152628591-d334a4ef-c175-406a-be62-476f729a4094.jpg" width="30%" height="30%">
+
+<img src = "https://user-images.githubusercontent.com/88263745/152628595-50961973-e2f7-47b0-8534-c48bc3f4f87f.jpg" width="30%" height="30%"> <img src = "https://user-images.githubusercontent.com/88263745/152628598-74b445a6-6a5c-485c-9f06-702a47fdf98b.jpg" width="30%" height="30%">
