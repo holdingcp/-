@@ -17,6 +17,7 @@
 
 
 ### 앱 서비스 사진  
+* 앱 인벤터를 활용하여 구현하였음.
 <img src = "https://user-images.githubusercontent.com/88263745/152628575-d950d49d-0fe0-487f-8eb7-fa0078ffb336.jpg" width="30%" height="30%"> <img src = "https://user-images.githubusercontent.com/88263745/152628579-2d2e3b2e-bc2d-42d3-b65d-ce3b10da085d.jpg" width="30%" height="30%">
 
 <img src = "https://user-images.githubusercontent.com/88263745/152628583-f1ab1d0a-5da1-4bbc-910d-f8fd4aa6ab84.jpg" width="30%" height="30%"> <img src = "https://user-images.githubusercontent.com/88263745/152628584-80f34036-cfe5-44e6-a361-b25da87cdc05.jpg" width="30%" height="30%">
