@@ -16,13 +16,7 @@
 본 팀은 해당 소비자들이 원하는 정보를 얻고 손쉽게 거래가 가능한 플랫폼을 만들고자 하였음.
 
 
-### 웹, 앱서비스 프로토 타입 사진
-<img src = "https://user-images.githubusercontent.com/88263745/152628848-3d382f56-c17b-450b-9105-f24d1b35c084.png" width="60%" height="60%"> 
-<img src = "https://user-images.githubusercontent.com/88263745/152628851-aa907065-f89e-4c88-a232-d31fb7e0f35b.png" width="30%" height="30%">
-
-
 ### 앱 서비스 사진  
-* 앱 인벤터를 활용하여 구현하였음.
 
 
 <img src = "https://user-images.githubusercontent.com/88263745/152628575-d950d49d-0fe0-487f-8eb7-fa0078ffb336.jpg" width="30%" height="30%"> <img src = "https://user-images.githubusercontent.com/88263745/152628579-2d2e3b2e-bc2d-42d3-b65d-ce3b10da085d.jpg" width="30%" height="30%">
